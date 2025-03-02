@@ -31,7 +31,7 @@
     "bcryptjs": "^2.4.3",
     "cheerio": "^1.0.0-rc.12",
     "crypto": "^1.0.1",
-    "next": "15.0.3",
+    "next": "15.1.2",
     "next-auth": "^4.24.5",
     "next-sanity": "^7.0.8",
     "next-themes": "^0.2.1",
