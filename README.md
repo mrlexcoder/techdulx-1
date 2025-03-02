@@ -1,12 +1,12 @@
-Thanks for choosing SaaSBold 🙌
+Thanks for choosing Techdulx 🙌
 
-A full-stack SaaS boilerplate and starter kit comes with all essential integrations, pages, components, user/admin dashboards, landing page, design source and everything you need to turn your feature-rich SaaS startup idea into reality.
+Techdulx offers premium themes, templates, and full-stack development services using Next.js, React, TypeScript, WordPress, Laravel, Node.js, and more. Transform your vision into a high-performance website or app with our expert solutions—fast, reliable, and tailored to your needs!
 
-## [🚀 Documentation](https://docs.saasbold.com)
+## [🚀 Documentation](https://docs.techdulx.com)
 
-## [⚡ Homepage](https://saasbold.com)
+## [⚡ Homepage](https://techdulx.com)
 
-## [💜 Support](https://saasbold.com/support)
+## [💜 Support](https://techdulx.com/support)
 
 ## [💬 Community](https://discord.gg/vc997X3xTP)
 
@@ -31,7 +31,7 @@ A full-stack SaaS boilerplate and starter kit comes with all essential integrati
 
 - Added Paddle Integration
 - Added Cancel Subscription API on LemonSqueezy integration
-- Separted Stripe, LemonSqueezy and Paddle Billing pages
+- Separated Stripe, LemonSqueezy and Paddle Billing pages
 - Added/Updated files and folders
   **Update Guide**
 
@@ -47,13 +47,9 @@ A full-stack SaaS boilerplate and starter kit comes with all essential integrati
   **Update Guide**
 
 1. prisma → schema.prisma
-
 2. src → app → user → invite
-
 3. components → Auth → InvitedSignin
-
 4. components → Admin → Users → UsersActions.tsx and UserTopbar.tsx
-
 5. libs → auth.ts
 
 📆 15 May 2024
@@ -67,3 +63,4 @@ A full-stack SaaS boilerplate and starter kit comes with all essential integrati
 - Updated Layout (to prevent client rendering):
   - moved pre-loader logic to PreLoader File
   - moved header & footer to HeaderWrapper & FooterWrapper
+
